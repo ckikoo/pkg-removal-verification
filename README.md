@@ -1,0 +1,1 @@
+# pkg-removal-verification
